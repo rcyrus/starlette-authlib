@@ -8,7 +8,7 @@ authors = ["Alessandro Ogier <alessandro.ogier@gmail.com>"]
 python = "^3.8"
 uvicorn = "^0.13.4"
 Authlib = "^0.15.3"
-starlette = "^0.14.2"
+starlette = "^0.13.6"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2"
